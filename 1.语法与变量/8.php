@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>SecHub</title>
+	<title>php</title>
 </head>
 <body>
 <?php
