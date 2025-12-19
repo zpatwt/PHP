@@ -1,8 +1,10 @@
 Rinton's work experience.
-准备工作：
+# 准备工作：
 下载phpstudy启动apache及mysql
+https://old.xp.cn/
+
 浏览器访问127.0.0.1
-将文件夹安装在phpstudy的WWW目录下
+将自建文件夹（PHP）安装在phpstudy的WWW目录下
 开始我们的php语言学习之旅
 
 基础PHP语法：
